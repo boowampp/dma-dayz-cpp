@@ -1,3 +1,4 @@
+Required
 [submodule "DMALib"]
 	path = DMALib
 	url = https://github.com/Enoz/DMALib
